@@ -5,10 +5,10 @@
            sync-j="4" />
   <remote  name="origin"
            alias="3rdparty"
-           fetch="https://github.com/apache/incubator-tvm.git"
+           fetch="https://github.com"
            />
 
-  <project name="." path="tvm" >  
+  <project name="apache/incubator-tvm.git" path="tvm" >  
   <!-- review="https://github.com/apache/incubator-tvm.git" -->
   </project>
   <!-- <project path="build/make" name="platform/build" groups="pdk" >
