@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+  <remote  name="origin"
+           alias="3rdparty"
+           fetch="https://github.com/apache/incubator-tvm.git"
+           />
+
+  <project name="." path="tvm" >  
+  <!-- review="https://github.com/apache/incubator-tvm.git" -->
+  </project>
+  <!-- <project path="build/make" name="platform/build" groups="pdk" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+  </project>
+  <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" revision="other_branch" remote="remote1"/> -->
+
+<!-- ... -->
+
+</manifest>
