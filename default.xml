@@ -3,5 +3,5 @@
     <!-- notice, the usl of github should be started with ssh:// and replace : with /  -->
     <remote name="gh_private" alias="gh_private" fetch="ssh://git@github.com/ShawnZhuang" />
     <default revision="main" remote="gh_private" sync-s="true" sync-j="4" />
-    <project name="holiday" path="holiday" remote="gh_private"></project>
+    <project name="holiday" path="." remote="gh_private"></project>
 </manifest>
