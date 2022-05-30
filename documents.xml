@@ -5,5 +5,5 @@
     <!-- <remote name="github" alias="github" fetch="ssh://git@github.com/ShawnZhuang" />
     <default revision="main" remote="github" sync-s="true" sync-j="4" /> -->
     <!-- <project name="holiday" path="holiday" remote="github"></project> -->
-    <project name="notes.git" path="notes" remote="gh_private"></project>
+    <project name="notes.git" path="notes" remote="gh_private" revision="master"></project>
 </manifest>
