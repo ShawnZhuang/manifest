@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- notice, the usl of github should be started with ssh:// and replace : with /  -->
-    <remote name="gh_private" alias="gh_private" fetch="ssh://git@github.com/ShawnZhuang" />
-    <default revision="main" remote="gh_private" sync-s="true" sync-j="4" />
+    <include name="src/remote.xml" />
+
     <project name="holiday" path="." remote="gh_private"></project>
 </manifest>
