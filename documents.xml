@@ -6,5 +6,5 @@
     <default revision="main" remote="github" sync-s="true" sync-j="4" /> -->
     <!-- <project name="holiday" path="holiday" remote="github"></project> -->
     <project name="notes.git" path="notes" remote="gh_private" revision="master"></project>
-    <project name="project_helper.git" path="project_helper.git" remote="gh_private" revision="main"></project>
+    <project name="project_helper.git" path="project_helper" remote="gh_private" revision="main"></project>
 </manifest>
