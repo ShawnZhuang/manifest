@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <include name="default.xml" />
+    <include name="basic.xml" />
     <!-- notice, the usl of github should be started with ssh:// and replace : with /  -->
     <!-- <remote name="github" alias="github" fetch="ssh://git@github.com/ShawnZhuang" />
     <default revision="main" remote="github" sync-s="true" sync-j="4" /> -->

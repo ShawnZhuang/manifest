@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <include name="src/remote.xml" />
+
+    <project name="holiday" path="." remote="gh_private"></project>
+    <project name="notes.git" path="notes" remote="gh_private" revision="master"></project>
+    <project name="project_helper.git" path="project_helper" remote="gh_private" revision="main"></project>
+    <project name="jf_wrapper.git" path="jf_wrapper" remote="gh_private"></project>
+
+</manifest>
