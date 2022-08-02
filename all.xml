@@ -4,17 +4,17 @@
 
     <project name="holiday" path="." remote="gh_private"></project>
     <project name="notes.git" path="notes" remote="gh_private" revision="master"></project>
-    <project name="project_helper.git" path="project_helper" remote="gh_private" revision="main"></project>
-    <project name="jf_wrapper.git" path="jf_wrapper" remote="gh_private" revision="main"></project>
-    <project name="tools_hub.git" path="tools_hub" remote="gh_private" revision="main"></project>
-    <project name="summarys.git" path="summarys" remote="gh_private" revision="main"></project>
-    <project name="ai-toolchain-repo.git" path="ai-toolchain-repo" remote="gh_private" revision="main"></project>
-    <project name="home.git" path="home" remote="gh_private" revision="main"></project>
-    <project name="solid_tvm_schedule.git" path="solid_tvm_schedule" remote="gh_private" revision="main"></project>
-    <project name="cv.git" path="cv" remote="gh_private" revision="main"></project>
-    <project name="Valse2019Notes.git" path="Valse2019Notes" remote="gh_private" revision="main"></project>
-    <project name="pattern-designed-cxx.git" path="pattern-designed-cxx" remote="gh_private" revision="main"></project>
-    <project name="template_c_cov.git" path="template_c_cov" remote="gh_private" revision="main"></project>
-    <project name="cv2.git" path="cv2" remote="gh_private" revision="main"></project>
+    <project name="project_helper.git" path="project_helper" remote="gh_private" revision="master"></project>
+    <project name="jf_wrapper.git" path="jf_wrapper" remote="gh_private" revision="master"></project>
+    <project name="tools_hub.git" path="tools_hub" remote="gh_private" revision="master"></project>
+    <project name="summarys.git" path="summarys" remote="gh_private" revision="master"></project>
+    <project name="ai-toolchain-repo.git" path="ai-toolchain-repo" remote="gh_private" revision="master"></project>
+    <project name="home.git" path="home" remote="gh_private" revision="master"></project>
+    <project name="solid_tvm_schedule.git" path="solid_tvm_schedule" remote="gh_private" revision="master"></project>
+    <project name="cv.git" path="cv" remote="gh_private" revision="master"></project>
+    <project name="Valse2019Notes.git" path="Valse2019Notes" remote="gh_private" revision="master"></project>
+    <project name="pattern-designed-cxx.git" path="pattern-designed-cxx" remote="gh_private" revision="master"></project>
+    <project name="template_c_cov.git" path="template_c_cov" remote="gh_private" revision="master"></project>
+    <project name="cv2.git" path="cv2" remote="gh_private" revision="master"></project>
 
 </manifest>

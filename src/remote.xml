@@ -5,5 +5,5 @@
     <remote name="gh_private" alias="gh_private" fetch="ssh://git@github.com/ShawnZhuang" />
     <remote name="apache" alias="apache" fetch="https://github.com/apache" />
 
-    <default revision="main" remote="gh_private"  sync-j="4" />
+    <default revision="main" remote="gh_private"  sync-j="2" />
 </manifest>
